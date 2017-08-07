@@ -5,8 +5,7 @@
  * Copyright (c) 2017 Venelin Efremov
  * 
  * License:
- * Use, modification & distribution is subject to Boost Software License Ver 1.
- * http://www.boost.org/LICENSE_1_0.txt
+ * MIT, see LICENSE file for details.
  *
  */
 const TwoPow32: number = Math.pow(2, 32);

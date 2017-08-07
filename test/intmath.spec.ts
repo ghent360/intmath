@@ -5,9 +5,7 @@
  * Copyright (c) 2017 Venelin Efremov
  * 
  * License:
- * Use, modification & distribution is subject to Boost Software License Ver 1.
- * http://www.boost.org/LICENSE_1_0.txt
- *
+ * MIT, see LICENSE file for details.
  */
 import * as assert from "assert";
 import {Int64, Int128} from "../intmath";
