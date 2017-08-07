@@ -1,0 +1,35 @@
+{
+  "name": "intmath",
+  "version": "0.5.0",
+  "description": "A package to perform precise 64 and 128-bit math operations in typescript.",
+  "main": "intmath.ts",
+  "scripts": {
+    "test": "mocha --opts mocha.opts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghent360/intmath.git"
+  },
+  "keywords": [
+    "Int64",
+    "Int128"
+  ],
+  "author": "Venelin Efremov <ghent360@iqury.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghent360/intmath/issues"
+  },
+  "homepage": "https://github.com/ghent360/intmath#readme",
+  "dependencies": {
+    "@types/node": "^8.0.19",
+    "@types/webassembly-js-api": "0.0.1",
+    "node": "^8.2.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "assert": "^1.4.1",
+    "mocha": "^3.5.0"
+  }
+}
